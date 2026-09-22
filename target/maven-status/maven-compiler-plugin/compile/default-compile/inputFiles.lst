@@ -1,0 +1,17 @@
+/app/src/main/java/com/piyush/aitexttosql/AiTextToSqlApplication.java
+/app/src/main/java/com/piyush/aitexttosql/config/AiConfig.java
+/app/src/main/java/com/piyush/aitexttosql/config/GlobalExceptionHandler.java
+/app/src/main/java/com/piyush/aitexttosql/controller/AiController.java
+/app/src/main/java/com/piyush/aitexttosql/controller/CustomerController.java
+/app/src/main/java/com/piyush/aitexttosql/controller/TextToSqlController.java
+/app/src/main/java/com/piyush/aitexttosql/exception/AiServiceException.java
+/app/src/main/java/com/piyush/aitexttosql/exception/InvalidQuestionException.java
+/app/src/main/java/com/piyush/aitexttosql/model/AiRequest.java
+/app/src/main/java/com/piyush/aitexttosql/model/AiResponse.java
+/app/src/main/java/com/piyush/aitexttosql/model/Customer.java
+/app/src/main/java/com/piyush/aitexttosql/model/TextToSqlRequest.java
+/app/src/main/java/com/piyush/aitexttosql/model/TextToSqlResponse.java
+/app/src/main/java/com/piyush/aitexttosql/repository/CustomerRepository.java
+/app/src/main/java/com/piyush/aitexttosql/service/AiService.java
+/app/src/main/java/com/piyush/aitexttosql/service/CustomerService.java
+/app/src/main/java/com/piyush/aitexttosql/service/TextToSqlService.java

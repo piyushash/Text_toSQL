@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.piyush.aitexttosql.controller.AiControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 80.97 s -- in com.piyush.aitexttosql.controller.AiControllerTest

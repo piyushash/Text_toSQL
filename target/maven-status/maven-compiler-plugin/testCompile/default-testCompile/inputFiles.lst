@@ -1,0 +1,5 @@
+/app/src/test/java/com/piyush/aitexttosql/controller/AiControllerTest.java
+/app/src/test/java/com/piyush/aitexttosql/controller/CustomerControllerTest.java
+/app/src/test/java/com/piyush/aitexttosql/controller/TextToSqlControllerTest.java
+/app/src/test/java/com/piyush/aitexttosql/service/AiServiceTest.java
+/app/src/test/java/com/piyush/aitexttosql/service/TextToSqlServiceTest.java
